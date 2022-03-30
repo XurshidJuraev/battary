@@ -1,0 +1,25 @@
+.battary-outer {
+    width: 400px;
+    height: 200px;
+    background-color: greenyellow;
+    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+.battary-level {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    /* margin-top: 80px; */
+}
+.battary-oulf{
+    width: 50px;
+    height: 100px;
+    background-color: greenyellow;
+    border: 1px solid #000;
+    margin-left: 801px;
+    margin-top: -145px;
+}
